@@ -1,1 +1,8 @@
-﻿
+﻿.foo {
+    width: 100px;
+    color: #888888;
+}
+
+.bar {
+    background: #888888;
+}
